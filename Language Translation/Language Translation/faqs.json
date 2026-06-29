@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the return policy?",
+        "answer": "You can return most items within 30 days of receipt for a full refund. Items must be in original condition."
+    },
+    {
+        "question": "How long does shipping take?",
+        "answer": "Standard shipping usually takes 3 to 5 business days. Expedited shipping options are available at checkout."
+    },
+    {
+        "question": "Do you ship internationally?",
+        "answer": "Yes, we ship to over 100 countries. International shipping rates and times vary depending on the destination."
+    },
+    {
+        "question": "How can I track my order?",
+        "answer": "Once your order ships, you will receive an email with a tracking link. You can also view tracking information in your account."
+    },
+    {
+        "question": "What payment methods are accepted?",
+        "answer": "We accept major credit cards (Visa, MasterCard, American Express), PayPal, and Apple Pay."
+    },
+    {
+        "question": "Are my payment details secure?",
+        "answer": "Yes, we use industry-standard encryption to ensure your payment details are secure. We do not store your full credit card number."
+    },
+    {
+        "question": "Can I cancel or change my order?",
+        "answer": "You can cancel or change your order within 1 hour of placing it. After that, we process it for shipping and cannot make changes."
+    },
+    {
+        "question": "What should I do if I received a damaged item?",
+        "answer": "Please contact our customer support team within 48 hours of receiving the item. Provide photos of the damage for a quick resolution."
+    },
+    {
+        "question": "How do I contact customer support?",
+        "answer": "You can reach customer support via the 'Contact Us' page on our website, or by emailing support@examplestore.com."
+    },
+    {
+        "question": "Is there a warranty on your products?",
+        "answer": "Most products come with a 1-year manufacturer warranty covering defects. Check the product page for specific warranty details."
+    },
+    {
+        "question": "How do I reset my password?",
+        "answer": "Click 'Forgot Password' on the login screen. You will receive an email instruction with a link to create a new password."
+    },
+    {
+        "question": "Can I use multiple promo codes?",
+        "answer": "No, our system only allows one active promo code or discount to be used per order."
+    },
+    {
+        "question": "Do you offer gift cards?",
+        "answer": "Yes! We offer digital gift cards in various denominations. They are delivered instantly via email."
+    },
+    {
+        "question": "What if an item is out of stock?",
+        "answer": "If an item is out of stock, you can sign up for restock notifications on the product page. We will email you once it becomes available again."
+    },
+    {
+        "question": "How do I unsubscribe from your newsletter?",
+        "answer": "You can click the 'unsubscribe' link at the very bottom of any promotional email we send you, or disable it in your account settings."
+    },
+    {
+        "question": "Do you have a physical store location?",
+        "answer": "No, currently we operate 100% online in order to offer our customers the best possible prices."
+    },
+    {
+        "question": "How can I leave a product review?",
+        "answer": "A week after your order is delivered, you'll receive an email prompt inviting you to leave a review. You can also sign in to your account and go to your Order History."
+    },
+    {
+        "question": "When will I get my refund?",
+        "answer": "Refunds are processed within 3-5 business days after we receive your returned item. It may take an additional 3 days to appear on your bank statement."
+    },
+    {
+        "question": "Are shipping costs refundable?",
+        "answer": "Original shipping costs are non-refundable unless the return is a result of our error, such as receiving a damaged or incorrect item."
+    },
+    {
+        "question": "Do I need an account to place an order?",
+        "answer": "No, you can easily check out as a guest. However, creating an account makes tracking and future purchases faster."
+    },
+    {
+        "question": "What size should I order?",
+        "answer": "Please refer to the size chart located on every product page. We provide exact measurements and fit recommendations."
+    },
+    {
+        "question": "Do you offer a military or student discount?",
+        "answer": "Yes, we proudly offer a 10% discount for active military, veterans, and students via a third-party verification app at checkout."
+    },
+    {
+        "question": "Can I request a custom order?",
+        "answer": "At this time, we do not support custom manufacturing or personalized engravings. All items are sold as shown."
+    },
+    {
+        "question": "What is your privacy policy?",
+        "answer": "We never sell your data to third parties. For full details on how we protect and manage your personal information, please visit the Privacy Policy page at the bottom of our site."
+    },
+    {
+        "question": "Where are your products manufactured?",
+        "answer": "Our products are designed in our headquarters in New York and sustainably sourced and manufactured through certified partners in Europe and Asia."
+    }
+]
